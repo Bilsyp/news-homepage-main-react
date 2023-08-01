@@ -2,8 +2,8 @@ import logo from "../assets/images/image-web-3-mobile.jpg";
 
 const Hero_Content = () => {
   return (
-    <div className='hero_content  md:flex-1 '>
-      <div className='image-wrapper  w-full h-[200px]'></div>
+    <div className='hero_content  md:flex-1 mt-4'>
+      <div className='image-wrapper  w-full h-[300px]'></div>
       <div className='lg:flex'>
         <div className=' lg:p-3   '>
           <h2 className='text-4xl py-3 font-bold'>

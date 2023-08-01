@@ -5,7 +5,7 @@ import Box from "./Box";
 
 const Store = () => {
   return (
-    <div className='store md:flex  my-3'>
+    <div className='store md:flex justify-between  my-3 w-full'>
       <Box
         num={"01"}
         title={"Reviving Retro PCs"}

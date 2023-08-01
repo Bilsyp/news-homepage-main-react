@@ -1,6 +1,6 @@
 const News_Content = () => {
   return (
-    <div className='news_content md:w-[30%] md:ml-5'>
+    <div className='news_content md:w-[30%] md:ml-5 mt-4'>
       <div className='news_container'>
         <h1 className='text-3xl text-Softorange font-semibold lg:text-md'>
           New
